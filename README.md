@@ -1,0 +1,2 @@
+# Social-media-impact-on-students-analysis-and-classification
+This project designed to investigate how students' social media habits influence their academic performance (GPA). Using Python, Pandas, and Scikit-learn, the project explores key behavioral features, uncovers hidden trends through Matplotlib and Seaborn visualizations, and applies classification models to predict or categorize GPA outcomes.
